@@ -15,6 +15,8 @@ return require('packer').startup(function()
   use "projekt0n/github-nvim-theme"
   use 'windwp/nvim-autopairs'
   use 'mhartington/formatter.nvim'
+  use 'HerringtonDarkholme/yats.vim'
+  use 'maxmellon/vim-jsx-pretty'
   use {
     'nvim-telescope/telescope.nvim',
     requires = { {'nvim-lua/plenary.nvim'} }
