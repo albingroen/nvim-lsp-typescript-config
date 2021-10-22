@@ -5,8 +5,6 @@ require('telescope-config')
 require('nvim-autopairs').setup{}
 require('formatter-config')
 
-vim.cmd([[nnoremap <silent> <leader>f :Format<CR>]])
-
 return require('packer').startup(function()
   use 'wbthomason/packer.nvim'
   use 'neovim/nvim-lspconfig'

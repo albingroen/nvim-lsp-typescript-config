@@ -1,3 +1,5 @@
+vim.cmd([[nnoremap <silent> <leader>f :Format<CR>]])
+
 require('formatter').setup({
   filetype = {
     typescript = { 
