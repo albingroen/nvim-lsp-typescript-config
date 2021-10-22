@@ -31,7 +31,7 @@ mv ~/.config/nvim ~/.config/nvim-old && git clone git@github.com:albingroen/nvim
 nvim init.lua
 ```
 
-Install dependencies using Packer
+Install plugins using Packer
 
 ```
 :PackerSync
