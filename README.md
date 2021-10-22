@@ -2,6 +2,10 @@
 
 A Neovim configuration with native LSP for a TypeScript development environment
 
+## Recommendations
+
+- Neovim >0.6.0 (Typescript LSP performance is greatly improved in this version)
+
 ## Prerequisites
 
 Install the TypeScript language sever, as well as Prettier for formatting
