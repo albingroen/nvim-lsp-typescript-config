@@ -32,3 +32,7 @@ Install dependencies using Packer
 ```
 :PackerSync
 ```
+
+## Screenshot
+
+![CleanShot 2021-10-22 at 08 09 35@2x](https://user-images.githubusercontent.com/19674362/138401976-daedf600-6fbc-49c3-a221-adeadf7e2b3d.png)
