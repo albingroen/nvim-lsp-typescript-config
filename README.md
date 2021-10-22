@@ -2,6 +2,14 @@
 
 A Neovim configuration with native LSP for a TypeScript development environment
 
+## Prerequisites
+
+Install the TypeScript language sever, as well as Prettier for formatting
+
+```sh
+npm install --global typescript-language-server prettier
+```
+
 ## Set up
 
 ### Clone repository
